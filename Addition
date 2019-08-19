@@ -7,3 +7,4 @@ c=a+b;
 printf("sum of the numbers=%d\n",c);
 return 0;
 }
+addition
